@@ -6,5 +6,12 @@
     "name": "Sinan Yasar",
     "url": "https://github.com/sinan"
   },
-  "keywords": ["writing", "concise", "plain-language", "hemingway", "iceberg"]
+  "keywords": [
+    "writing",
+    "concise",
+    "plain-language",
+    "hemingway",
+    "iceberg"
+  ],
+  "logo": "assets/logo.png"
 }
