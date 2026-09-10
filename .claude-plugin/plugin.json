@@ -1,0 +1,13 @@
+{
+  "name": "hemingway",
+  "description": "Your coding agent writes like Hemingway. Short sentences, plain words, the answer first, and one closing line that names what it left out. Say 'below' to get it.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sinan Yasar",
+    "url": "https://github.com/sinan"
+  },
+  "homepage": "https://github.com/sinan/hemingway",
+  "repository": "https://github.com/sinan/hemingway",
+  "license": "MIT",
+  "keywords": ["output-style", "writing", "concise", "plain-language", "hemingway", "iceberg"]
+}

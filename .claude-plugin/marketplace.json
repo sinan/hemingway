@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hemingway",
+  "description": "Your coding agent writes like Hemingway. Short, plain, answer first, with one line naming what was left out.",
+  "owner": {
+    "name": "Sinan Yasar",
+    "url": "https://github.com/sinan"
+  },
+  "plugins": [
+    {
+      "name": "hemingway",
+      "description": "Short, plain replies with a closing line that names what was left out. Say 'below' to get it.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
